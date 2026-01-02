@@ -1,6 +1,6 @@
 ## Qt5 Design Pattern 🐉
 
-In this repository, I added basic example about *Qt5 Design Pattern / Bryan Cairns* 🐅
+In this repository, I added basic example from *Qt5 Design Pattern / Bryan Cairns* course 🐅
 
 If you are insterested in Desgin Pattern you should read also C++ Software Desing Principle book. I strongly recommend it 📄
 
